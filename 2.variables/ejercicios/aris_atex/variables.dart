@@ -19,4 +19,5 @@ main() {
   late String date;
   date = "25 de abril";
   print(date);
+  print(date);
 }
